@@ -21,9 +21,8 @@ This guide explains how to set up iOS Shortcuts to display the charger status on
 1. Search for "Get Contents of URL" and add it
 2. Configure the URL to point to your GitHub data file:
    ```
-   https://raw.githubusercontent.com/YOUR_USERNAME/State_of_the_Charge/main/data.json
+   https://raw.githubusercontent.com/felixSouan/State_of_the_Charge/main/data.json
    ```
-   (Replace YOUR_USERNAME with your actual GitHub username)
 
 3. Set Method to **GET**
 4. Add Headers:
@@ -106,7 +105,7 @@ You can customize the widget by:
 Here's the complete action sequence for your shortcut:
 
 1. **Get Contents of URL**
-   - URL: `https://raw.githubusercontent.com/YOUR_USERNAME/State_of_the_Charge/main/data.json`
+   - URL: `https://raw.githubusercontent.com/felixSouan/State_of_the_Charge/main/data.json`
    - Method: GET
 
 2. **Get Value from Input**
