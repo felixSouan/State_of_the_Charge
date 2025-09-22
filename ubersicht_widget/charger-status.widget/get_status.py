@@ -15,7 +15,7 @@ def get_status_from_github():
     """Try to get status from GitHub data file"""
     try:
         # Replace with your actual GitHub username and repo
-        github_url = "https://raw.githubusercontent.com/YOUR_USERNAME/State_of_the_Charge/main/data.json"
+        github_url = "https://raw.githubusercontent.com/felixSouan/State_of_the_Charge/main/data.json"
         
         response = requests.get(github_url, timeout=10)
         response.raise_for_status()
