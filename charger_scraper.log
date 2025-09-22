@@ -1,0 +1,15 @@
+2025-09-22 10:08:54,685 - INFO - Database initialized successfully
+2025-09-22 10:08:54,685 - INFO - Starting charger status check...
+2025-09-22 10:08:54,685 - INFO - Fetching charger status from ChargeHub...
+2025-09-22 10:08:56,215 - INFO - Scraped status: In Use
+2025-09-22 10:08:56,217 - INFO - Stored status: In Use at 2025-09-22T14:08:56.216673+00:00
+2025-09-22 10:08:56,217 - INFO - Status check completed successfully: In Use
+2025-09-22 10:08:59,639 - INFO - Database initialized successfully
+2025-09-22 10:10:02,167 - INFO - Database initialized successfully
+2025-09-22 10:10:02,479 - INFO - Database initialized successfully
+2025-09-22 10:10:02,479 - INFO - Fetching charger status from ChargeHub...
+2025-09-22 10:10:05,485 - INFO - Scraped status: In Use
+2025-09-22 10:10:05,488 - INFO - Stored status: In Use at 2025-09-22T14:10:05.486839+00:00
+2025-09-22 10:10:05,488 - INFO - Database initialized successfully
+2025-09-22 10:10:05,503 - INFO - Loaded 2 data points from the last 1 days
+2025-09-22 10:10:05,511 - INFO - Database initialized successfully
